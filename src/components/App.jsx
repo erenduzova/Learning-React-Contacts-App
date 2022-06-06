@@ -4,7 +4,7 @@ import Card from "./Card.jsx";
 
 function App() {
   return (
-    <div>
+    <div className="info">
       <h1 className="heading">My Contacts</h1>
       <Card
         name="Beyonce"
