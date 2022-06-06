@@ -16,7 +16,7 @@ function App() {
     );
   });
   return (
-    <div className="info">
+    <div>
       <h1 className="heading">My Contacts</h1>
       {cards}
     </div>
