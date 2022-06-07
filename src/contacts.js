@@ -1,12 +1,5 @@
 const contacts = [
   {
-    name: "Eren Düzova",
-    imgURL:
-      "https://media-exp1.licdn.com/dms/image/C4E03AQHgUV-N80Vpmw/profile-displayphoto-shrink_200_200/0/1581514808020?e=1659571200&v=beta&t=qK2ySDu-ZS6M36AjyDM0v-w813XezERVrzMJYrygnAs",
-    phone: "+90 5** ** 48",
-    email: "eren_duzova@hotmail.com"
-  },
-  {
     name: "Beyonce",
     imgURL:
       "https://blackhistorywall.files.wordpress.com/2010/02/picture-device-independent-bitmap-119.jpg",
